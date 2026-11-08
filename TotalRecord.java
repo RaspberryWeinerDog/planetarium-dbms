@@ -1,15 +1,14 @@
 public class TotalRecord {
-    double distance;
-    int num1;
-    double num2;
+    // запись таблицы итогового расчета
+    String str;
+    int num;
 
-    public TotalRecord(double distance, int num1, double num2) {
-        this.distance = distance;
-        this.num1 = num1;
-        this.num2 = num2;
+    public TotalRecord(String str, int num) {
+        this.num = num;
+        this.str = str;
     }
 
     public String toString() {
-        return String.format("| %10.2f | %5d | %3.2f |", distance, num1, num2);
+        return String.format("%s : %5d ", str, num);
     }
 }

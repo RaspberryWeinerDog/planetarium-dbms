@@ -1,11 +1,7 @@
 #BlueJ class context
 comment0.target=Transfer
-comment1.params=line
-comment1.target=java.lang.String\ unificationString(java.lang.String)
-comment2.params=line\ num
-comment2.target=PlanetWithDistance\ lineToPlanet(java.lang.String,\ int)
-comment3.params=lines
-comment3.target=java.util.List\ stringsToPlanets(java.util.List)
-comment4.params=planets
-comment4.target=java.util.List\ planetsToStrings(java.util.List)
-numComments=5
+comment1.params=lines
+comment1.target=java.util.List\ stringsToPlanets(java.util.List)
+comment2.params=planets
+comment2.target=java.util.List\ planetsToStrings(java.util.List)
+numComments=3

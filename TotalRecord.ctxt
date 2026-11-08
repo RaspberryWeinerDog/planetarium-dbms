@@ -1,7 +1,7 @@
 #BlueJ class context
 comment0.target=TotalRecord
-comment1.params=distance\ num1\ num2
-comment1.target=TotalRecord(double,\ int,\ double)
+comment1.params=str\ num
+comment1.target=TotalRecord(java.lang.String,\ int)
 comment2.params=
 comment2.target=java.lang.String\ toString()
 numComments=3
