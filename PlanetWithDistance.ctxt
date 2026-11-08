@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=PlanetWithDistance
+comment1.params=
+comment1.target=PlanetWithDistance()
+comment2.params=planetCode\ planetName\ planetMass\ planetVolume\ isAtmosphere\ starDistance
+comment2.target=PlanetWithDistance(java.lang.String,\ java.lang.String,\ double,\ double,\ boolean,\ double)
+comment3.params=ob
+comment3.target=PlanetWithDistance(PlanetWithDistance)
+comment4.params=
+comment4.target=double\ getStarDistance()
+comment5.params=starDistance
+comment5.target=void\ setStarDistance(double)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=ob
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=
+comment8.target=int\ hashCode()
+comment9.params=planet
+comment9.target=int\ compareTo(Planet)
+numComments=10
