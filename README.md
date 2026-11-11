@@ -21,7 +21,7 @@
 
 ---
 
-planetarium-dbms — an object-oriented database management system for a planetarium.
+# planetarium-dbms — an object-oriented database management system for a planetarium.
 
 Coursework for the "Object-Oriented Programming" discipline.
 
